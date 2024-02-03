@@ -1,0 +1,9 @@
+# 2020-05-04   .gitignore generic seed for typical use
+
+# ignore all temporary files
+*.tmp
+*.TMP
+tmpz_*
+TMPZ_*
+
+# (EOF)
